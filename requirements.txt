@@ -1,0 +1,6 @@
+pennylane
+qiskit
+qiskit-aer
+matplotlib
+seaborn
+pylatexenc
